@@ -341,7 +341,7 @@ const Header = () => {
                 asChild
                 className="bg-gradient-to-r from-white to-gray-100 text-[#1a1f3a] hover:from-orange-400 hover:to-orange-500 hover:text-white border-2 border-white text-xs font-bold px-2 md:px-4 py-1.5 md:py-2 h-auto rounded-lg animate-pulse shadow-lg hover:shadow-xl transition-all duration-500 hover:scale-105"
               >
-                <a href="https://cybaemtech.in/digitalbharat/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 md:gap-2">
+                <a href="https://cybaemtech.com/offers/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 md:gap-2">
                   <svg width="14" height="10" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 md:w-4 md:h-3">
                     <rect width="20" height="5" fill="#FF9933"/>
                     <rect y="5" width="20" height="5" fill="#FFFFFF"/>
@@ -769,7 +769,7 @@ const Header = () => {
             <NavigationMenuItem>
               <NavigationMenuLink asChild>
                 <a
-                  href="https://cybaemtech.in/digitalbharat/"
+                  href="https://cybaemtech.com/offers/"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={handleMenuItemClick}
